@@ -90,3 +90,11 @@ a:focus {
   margin: 0;
   padding: 0.5rem 3rem;
 }
+
+.offsite-is-open .site-container {
+  transform: translateX(14rem);
+}
+
+.offsite-is-open .offsite-container {
+  transform: translateX(14rem);
+}
